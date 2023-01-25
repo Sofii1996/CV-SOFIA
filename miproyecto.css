@@ -1,0 +1,45 @@
+
+
+body{ background-color:aliceblue }
+
+*{font-family: 'Sawarabi Mincho', serif;
+margin:10px, 10px, 5px, 5px}
+    
+
+
+h1 { font-size: 50px; color:royalblue;
+    margin: 5px
+
+}
+
+#soyparrafo {margin: 5px;}
+
+h5{ font-size: 16px;}
+
+
+h6{ color: grey;}
+
+
+
+
+.educacion{ float: left;
+    margin: 5px;
+}
+
+
+.experiencia {float: right;
+    margin: 5px
+    
+}
+
+.ocultar { display: none
+}
+
+.mostrar { display: block
+}
+ 
+#boton_leer{ background-color:aliceblue;
+color:black; border-radius: 15px; border-color:aquamarine;
+}
+
+
